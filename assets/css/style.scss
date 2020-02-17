@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans|Overpass&display=swap');
+h1 {
+    font-family: Overpass, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+p {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 300;
+}
