@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: OmegaGraf
 description: Fast & Easy vCenter Monitoring Deployment
 show_downloads: true
+logo: https://raw.githubusercontent.com/OmegaGraf/OmegaGraf/master/docs/branding/logo/dist/logo_1024_light.png
 github:
   is_project_page: true
   repository_url: https://github.com/OmegaGraf/OmegaGraf
