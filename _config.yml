@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: OmegaGraf
 description: Fast & Easy vCenter Monitoring Deployment
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: https://github.com/OmegaGraf/OmegaGraf
+  zip_url: https://github.com/OmegaGraf/OmegaGraf/releases/download/v1.0.0-preview2/OmegaGraf-win-x64-v1.0.0-pre-2.zip
+  tar_url: https://github.com/OmegaGraf/OmegaGraf/releases/download/v1.0.0-preview2/OmegaGraf-linux-x64-v1.0.0-pre-2.tar.gz
