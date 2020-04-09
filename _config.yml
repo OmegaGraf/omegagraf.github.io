@@ -6,5 +6,5 @@ logo: https://raw.githubusercontent.com/OmegaGraf/OmegaGraf/master/docs/branding
 github:
   is_project_page: true
   repository_url: https://github.com/OmegaGraf/OmegaGraf
-  zip_url: https://github.com/OmegaGraf/OmegaGraf/releases/download/v1.0.0-preview2/OmegaGraf-win-x64-v1.0.0-pre-2.zip
-  tar_url: https://github.com/OmegaGraf/OmegaGraf/releases/download/v1.0.0-preview2/OmegaGraf-linux-x64-v1.0.0-pre-2.tar.gz
+  zip_url: https://github.com/OmegaGraf/OmegaGraf/releases/download/v1.0.0/OmegaGraf-win-x64-v1.0.0.zip
+  tar_url: https://github.com/OmegaGraf/OmegaGraf/releases/download/v1.0.0/OmegaGraf-linux-x64-v1.0.0.tar.gz
