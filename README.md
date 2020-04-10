@@ -31,6 +31,22 @@ bash <(curl -s {{ site.github.repository_raw }}/install/debian-amd64.sh)
 
 Otherwise, you can use our [Getting Started]({{ site.github.repository_url }}/blob/master/docs/getting-started.md) guide.
 
+## Why should I use OmegaGraf over other solutions?
+
+OmegaGraf was inspired by several other products. We thought we could build on some of their accomplishments, any create something that was more dynamic, simpler to use, and easier to maintain.
+
+| Feature                            | OmegaGraf          | SexiGraf                 |
+| ---------------------------------- | ------------------ | ------------------------ |
+| Containerized                      | :heavy_check_mark: | :heavy_multiplication_x: |
+| Integration with existing products | :heavy_check_mark: | :heavy_multiplication_x: |
+| Removable after deployment         | :heavy_check_mark: | :heavy_multiplication_x: |
+| Self-Monitoring                    | :heavy_check_mark: | :heavy_check_mark:       |
+| Collection                         | Telegraf           | Perl                     |
+| TSDB                               | Prometheus         | Graphite                 |
+| Display                            | Grafana            | Modified Grafana         |
+
+More coming soon...
+
 ## What technology does OmegaGraf leverage?
 
 OmegaGraf uses the following technologies:
