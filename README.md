@@ -62,3 +62,7 @@ View all our dependencies on [libraries.io](https://libraries.io/github/OmegaGra
 ## How can I learn more?
 
 **For more information, check out our [README]({{ site.github.repository_url }}/blob/master/README.md).**
+
+To submit an issue or enhancement, check out the [issues]({{ site.github.repository_url }}/issues) page.
+
+Interested in making a contribution? Check out our [contributing guide]({{ site.github.repository_url }}/blob/master/CONTRIBUTING.md).
